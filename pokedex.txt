@@ -1,0 +1,4 @@
+150,Mewtwo,Psy,Psykokinesie
+151,Mew,Psy,Psykokinesie
+25,Pikachu,Electrique,Eclair
+1 ,bulbizard,plante,lance soleil
