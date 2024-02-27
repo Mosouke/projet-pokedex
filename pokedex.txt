@@ -1,4 +1,6 @@
-150,Mewtwo,Psy,Psykokinesie
-151,Mew,Psy,Psykokinesie
-25,Pikachu,Electrique,Eclair
-1 ,bulbizard,plante,lance soleil
+1,Bulbizard,Plante,Ball Graine
+10,Dracofeu,Feu. Dragon,Deflagration
+18,Roucarnage,Normal. Vole,Tornade
+25,Pikachu,Electrique,Fatal Foudre
+150,Mewtwo,Psy,Psyko
+151,Mew,Psy,Metamorphose
